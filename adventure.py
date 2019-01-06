@@ -21,8 +21,8 @@ def win():
     time.sleep(1)
     print("Adventure : A Text Based Game\n")
     print("""Credits:
-Story by Max Waring
-Coded by Max Waring in Python 3.6.5""")
+Story by iAlphaRaptor
+Coded by iAlphaRaptor in Python 3.6.5""")
     time.sleep(1)
     print("Thank you for playing.")
     input()
@@ -1276,7 +1276,6 @@ def seeHouse():
     time.sleep(1)
     print("""Welcome to Adventure!
 Created by iAlphaRaptor
-
 Throughout this game, you will find many challenges and puzzles.
 You must complete all these challenges and make your way to the End Room.
 There, you will find the Final Test which will test your strength, intellingence and speed.
